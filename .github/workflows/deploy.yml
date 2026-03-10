@@ -7,10 +7,10 @@ on:
 
 env:
   PROJECT_NAME: cicdproject
-  BUCKET_NAME: cide-codedeploy-4878
+  BUCKET_NAME: cide-codedeploy-8059
   CODE_DEPLOY_APP_NAME: cicdapp
   DEPLOYMENT_GROUP_NAME: cicdapp_deploy
-  AWS_REGION: us-west-2
+  AWS_REGION: ap-northeast-2
 
 jobs:
   build:
