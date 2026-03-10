@@ -7,7 +7,7 @@ on:
 
 env:
   PROJECT_NAME: cicdproject
-  BUCKET_NAME: cide-codedeploy-8059
+  BUCKET_NAME: cicd-codedeploy-8059
   CODE_DEPLOY_APP_NAME: cicdapp
   DEPLOYMENT_GROUP_NAME: cicdapp_deploy
   AWS_REGION: ap-northeast-2
